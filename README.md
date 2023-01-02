@@ -1,9 +1,9 @@
 # Olá, eu sou o Victor
-Tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas e um desenvolvedor android iniciante do Brasil.
+- Tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas e um desenvolvedor android iniciante do Brasil.
+- Estudando Python no momento, mas curioso pelas demais linguagens e tecnologias.
 
 ## 💻  O que você encontra no meu Github
 
-- Estudando Python no momento.
 - Atualmente trabalho na device tree de dois telefones: Asus Max M1 e Galaxy J4 Core.
 - As devices tree (árvore de dispositivos) são usadas para construir roms customizadas.
 - Atualmente estou trabalhando em:
