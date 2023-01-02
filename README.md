@@ -1,14 +1,16 @@
-# Hi there, I'm Victor
+# Olá, eu sou o Victor
+Tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas e um desenvolvedor android iniciante do Brasil.
 
-## I am a begginer Android Developer from Brazil
+## 💻  O que você encontra no meu Github
 
-- Currently I work on device tree for two Devices: Asus Max M1 and Galaxy J4 Core.
-- These device tree are used in Android Custom Rom.
-- I’m currently working at:
+- Estudando Python no momento.
+- Atualmente trabalho na device tree de dois telefones: Asus Max M1 e Galaxy J4 Core.
+- As devices tree (árvore de dispositivos) são usadas para construir roms customizadas.
+- Atualmente estou trabalhando em:
   <br>
-   **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**.
+   **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**. (Uma org por hobbie)
  
- ### My stats:
+ ### 💡 Meus avanços:
 <div align="center">
 <a href="https://github.com/Vhmit/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vhmit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
