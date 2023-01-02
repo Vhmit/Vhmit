@@ -9,9 +9,12 @@
    **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**.
  
  ### My stats:
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Vhmit&style=flat-square" alt="Victor Hugo" /><br>
 
 [![Victor Hugo  github stats](https://github-readme-stats.vercel.app/api?username=Vhmit)](https://github.com/Vhmit)
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhmit&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!-- github workflow  -->
 
