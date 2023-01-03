@@ -11,11 +11,9 @@
    **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**. (Uma org por hobbie)
  
  ### 💡 Meus avanços:
-<div align="center">
-<a href="https://github.com/Vhmit/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vhmit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhmit&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ <img src="https://komarev.com/ghpvc/?username=Vhmit&style=flat-square" alt="Vhmit" /><br>
+
+[![Victor  github stats](https://github-readme-stats.vercel.app/api?username=Vhmit)](https://github.com/Vhmit)
 
 <!-- github workflow  -->
 
