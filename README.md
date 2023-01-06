@@ -4,7 +4,7 @@
 
 ## 💻  O que você encontra no meu Github
 
-- Atualmente trabalho na device tree de dois telefones: Asus Max M1 e Galaxy J4 Core.
+- Atualmente trabalho na device tree de três telefones: Asus Max M1, Galaxy J4 Core e Moto G6 Play.
 - As devices tree (árvore de dispositivos) são usadas para construir roms customizadas.
 - Atualmente estou trabalhando em:
   <br>
