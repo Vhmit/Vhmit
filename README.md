@@ -9,13 +9,6 @@
 - Atualmente estou trabalhando em:
   <br>
    **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**. (Uma org por hobbie)
- 
- ### 💡 Meus avanços:
- <img src="https://komarev.com/ghpvc/?username=Vhmit&style=flat-square" alt="Vhmit" /><br>
- </div>
 
-<a href="https://github.com/Vhmit"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhmit&show_icons=true&theme=dark"></a></p>
-
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhmit&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Vhmit)
+[![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhmit&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/Vhmit)
