@@ -21,8 +21,6 @@ printf "Hello world"
   <br>
    **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**.
   <br>
-   **LineageOS Fork [@Lineage-Fork](https://github.com/Lineage-Fork)**.
-  <br>
    **Mimir Kernel [@Mimir-Kernel](https://github.com/Mimir-Kernel)**.
   
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhmit&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Vhmit)
