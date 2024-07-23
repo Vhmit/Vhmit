@@ -16,5 +16,7 @@ printf "Hello world"
 - I am currently leading the project on:
   <br>
    **Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69)**.
+  <br>
+   **ArrowOS-Extended [@ArrowOS-Extended](https://github.com/ArrowOS-Extended)**.
   
 [![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhmit&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/skullknight963)
