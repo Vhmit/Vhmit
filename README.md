@@ -13,5 +13,3 @@ printf "Hello world"
 
 ## 💻  What you find on my Github
 - Currently I work on device tree are used in Android Custom Rom.
-  
-[![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhmit&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/Vhmit)
