@@ -5,7 +5,7 @@
 printf "Hello world"
 ```
 
-# Hi there, I'm Victor [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+# Hi there, I'm Victor [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![views](https://komarev.com/ghpvc/?username=Vhmit&color=0FCF0F)](https://github.com/antonkomarev/github-profile-views-counter)
 - 24 years, Brazil.
 - Interested in android development.
 
@@ -13,3 +13,5 @@ printf "Hello world"
 
 ## 💻  What you find on my Github
 - Currently I work on device tree are used in Android Custom Rom.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vhmit&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Vhmit)
