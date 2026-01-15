@@ -1,4 +1,4 @@
-**Developer AOSP** | (Hobby) Working with custom ROMs and kernel development since 2022.
+**(Hobby) Working with custom ROMs and kernel development since 2022.**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vhmit)
