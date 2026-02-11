@@ -4,7 +4,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vhmit)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Vhmit)
 ![Stars](https://img.shields.io/github/stars/Vhmit?style=flat&logo=github&color=black)
-![Followers](https://img.shields.io/github/followers/Vhmit?style=flat&logo=github&color=black)
 
 ---
 
